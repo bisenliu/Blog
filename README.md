@@ -21,9 +21,8 @@
 
 祝学习愉快！🌟
 
-## [Algorithm]()
+## [Algorithm](./Algorithm)
 
 
-## [VPN]()
+## [VPN](./Vpn)
 
-## 
